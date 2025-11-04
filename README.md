@@ -84,7 +84,7 @@ Urban outlet locations show stronger performance than smaller towns.
 
 Established outlets (pre-2010) tend to have higher average sales, indicating customer trust and loyalty.
 
-ools & Environment
+Tools & Environment
 Component	Description
 🗄️ Database	Microsoft SQL Server
 💾 Dataset	Blinkit retail sales data
